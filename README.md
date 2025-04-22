@@ -4,7 +4,7 @@ The cap was designed with a smooth surface to avoid any accidental opening in th
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github.com/user-attachments/assets/b20b78c1-6d0f-4a4e-a8c2-fbe2587389e3" height="200" />
+      <img src="https://github.com/user-attachments/assets/b20b78c1-6d0f-4a4e-a8c2-fbe2587389e3" height="150" />
     </td>
     <td valign="top" style="padding-left: 16px;">
       <p>The cap consists of:</p>
